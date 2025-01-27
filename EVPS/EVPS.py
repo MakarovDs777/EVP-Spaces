@@ -9,7 +9,7 @@ import random
 from pydub import AudioSegment
 import tempfile
 import os
-import cv2  # Импортируем OpenCV
+import cv2
 
 class AudioMosaic:
     def __init__(self):
